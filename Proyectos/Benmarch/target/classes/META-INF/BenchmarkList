@@ -1,0 +1,5 @@
+JMH S 25 Trabajo.MyBenchmarkPrueba S 65 Trabajo.jmh_generated.MyBenchmarkPrueba_measureThroughput_jmhTest S 17 measureThroughput S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 29 Trabajo.MyBenchmarkSecuencial S 69 Trabajo.jmh_generated.MyBenchmarkSecuencial_measureThroughput_jmhTest S 17 measureThroughput S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 19 Trabajo.MyBenchmark S 52 Trabajo.jmh_generated.MyBenchmark_testMethod_jmhTest S 10 testMethod S 11 AverageTime E A 1 1 1 E I 1 1 T 3 1 s E I 1 1 T 3 1 s E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 Trabajo.MyBenchmarkPrueba S 58 Trabajo.jmh_generated.MyBenchmarkPrueba_testMethod_jmhTest S 10 testMethod S 11 AverageTime E A 1 1 1 E I 1 1 T 3 1 s E I 1 1 T 3 1 s E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 29 Trabajo.MyBenchmarkSecuencial S 62 Trabajo.jmh_generated.MyBenchmarkSecuencial_testMethod_jmhTest S 10 testMethod S 11 AverageTime E A 1 1 1 E I 1 1 T 3 1 s E I 1 1 T 3 1 s E I 1 2 E E E E E E U 12 MILLISECONDS E E 
